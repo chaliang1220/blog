@@ -1,0 +1,1 @@
+import{_ as o,p as s,q as t,R as e}from"./framework-5866ffd3.js";const _="/images/logo.jpg",c={},n=e("p",null,[e("img",{src:_,alt:"VuePress Logo"})],-1),r=[n];function a(l,i){return s(),t("div",null,r)}const m=o(c,[["render",a],["__file","index.html.vue"]]);export{m as default};
